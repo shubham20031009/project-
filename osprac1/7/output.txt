@@ -1,0 +1,3 @@
+Character count: 0
+Word count: 0
+Line count: 1
